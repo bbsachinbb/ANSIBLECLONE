@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ANSIBLECLONE/static/css/main.be3bcc70.chunk.css",
+    "main.js": "/ANSIBLECLONE/static/js/main.0512f113.chunk.js",
+    "main.js.map": "/ANSIBLECLONE/static/js/main.0512f113.chunk.js.map",
+    "runtime-main.js": "/ANSIBLECLONE/static/js/runtime-main.2c1322b4.js",
+    "runtime-main.js.map": "/ANSIBLECLONE/static/js/runtime-main.2c1322b4.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/ANSIBLECLONE/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.f09b04e8.chunk.js": "/ANSIBLECLONE/static/js/2.f09b04e8.chunk.js",
+    "static/js/2.f09b04e8.chunk.js.map": "/ANSIBLECLONE/static/js/2.f09b04e8.chunk.js.map",
+    "index.html": "/ANSIBLECLONE/index.html",
+    "precache-manifest.a233d8018ca31410419958a96f3ab9d4.js": "/ANSIBLECLONE/precache-manifest.a233d8018ca31410419958a96f3ab9d4.js",
+    "service-worker.js": "/ANSIBLECLONE/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/ANSIBLECLONE/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.be3bcc70.chunk.css.map": "/ANSIBLECLONE/static/css/main.be3bcc70.chunk.css.map",
+    "static/js/2.f09b04e8.chunk.js.LICENSE.txt": "/ANSIBLECLONE/static/js/2.f09b04e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c1322b4.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.f09b04e8.chunk.js",
+    "static/css/main.be3bcc70.chunk.css",
+    "static/js/main.0512f113.chunk.js"
+  ]
+}
